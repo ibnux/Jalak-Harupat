@@ -1,0 +1,24 @@
+<Properties ModelVersion="1.1.2">
+  <General Title="Jalak Harupat" Version="3.0.6" Vendor="BBDevID" Description="Free Simple Capture Screen with preview, timer sound, add text and image.  OS 4.7 above"/>
+  <Application Type="BlackBerry Application" MainMIDletName="" MainArgs="24234234234" HomeScreenPosition="0" StartupTier="7" IsSystemModule="false" IsAutostartup="false"/>
+  <Resources hasTitleResource="false" TitleResourceBundleName="" TitleResourceBundleRelativePath="" TitleResourceBundleClassName="" TitleResourceBundleKey="" DescriptionId="">
+    <Icons>
+      <Icon CanonicalFileName="res/icon.png" IsFocus="false"/>
+    </Icons>
+  </Resources>
+  <Compile OutputCompilerMessages="false" ConvertImages="false" CreateWarningForNoExportedRoutine="true" CompressResources="false" AliasList="">
+    <PreprocessorDefines/>
+  </Compile>
+  <Packaging OutputFileName="Jalak_Harupat" OutputFolder="deliverables" PreBuildStep="" PostBuildStep="" CleanStep="" GenerateALXFile="true">
+    <AlxFiles/>
+  </Packaging>
+  <HiddenProperties>
+    <ClassProtection/>
+    <PackageProtection/>
+  </HiddenProperties>
+  <AlternateEntryPoints>
+    <AlternateEntryPoint Title="JalakService" MainMIDletName="" ArgumentsForMain="startup" HomeScreenPosition="0" StartupTier="7" IsSystemModule="true" IsAutostartup="true" hasTitleResource="false" TitleResourceBundleKey="" TitleResourceBundleName="" TitleResourceBundleClassName="" TitleResourceBundleRelativePath="">
+      <Icons/>
+    </AlternateEntryPoint>
+  </AlternateEntryPoints>
+</Properties>

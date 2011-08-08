@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Jalak_Harupat">
+		<name >
+			Jalak Harupat
+		</name>
+		<description >
+			Free Simple Capture Screen with preview, timer sound, add text and image.  OS 4.7 above
+		</description>
+		<version >
+			3.0.6
+		</version>
+		<vendor >
+			BBDevID
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 BBDevID
+		</copyright>
+		<fileset Java="1.49" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				Jalak_Harupat.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

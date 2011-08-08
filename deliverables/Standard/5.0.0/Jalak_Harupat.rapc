@@ -1,0 +1,12 @@
+MIDlet-Name: Jalak Harupat
+MIDlet-Version: 3.0.6
+MIDlet-Vendor: BBDevID
+MIDlet-Description: Free Simple Capture Screen with preview, timer sound, add text and image.  OS 4.7 above
+MIDlet-Jar-URL: Jalak Harupat.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Jalak Harupat,icon.png,24234234234
+RIM-MIDlet-Flags-1: 0
+MIDlet-2: JalakService,,startup
+RIM-MIDlet-Flags-2: 3

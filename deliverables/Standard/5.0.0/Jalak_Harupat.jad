@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+MIDlet-Version: 3.0.6
+MIDlet-Jar-Size: 145553
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: Jalak Harupat.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_bbapi_menuitem,net_rim_os
+RIM-COD-URL-1: Jalak_Harupat-1.cod
+RIM-COD-SHA1-1: 3b 50 29 8b 00 26 88 c4 83 3b ef c9 cb 44 4f 45 a8 ac ce 9b
+RIM-MIDlet-Flags-2: 3
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 33388
+RIM-COD-Module-Name: Jalak_Harupat
+RIM-COD-Size: 35104
+MIDlet-Name: Jalak Harupat
+RIM-COD-Creation-Time: 1312800289
+MIDlet-2: JalakService,,startup
+MIDlet-1: Jalak Harupat,icon.png,24234234234
+RIM-COD-URL: Jalak_Harupat.cod
+MIDlet-Description: Free Simple Capture Screen with preview, timer sound, add text and image.  OS 4.7 above
+RIM-COD-SHA1: 72 e3 13 e3 4b 63 c7 c9 5d cf 2f ec 3b 38 54 bc b5 e3 b9 e2
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: BBDevID
